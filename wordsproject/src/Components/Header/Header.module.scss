@@ -1,0 +1,17 @@
+@import "../../Variables/variables";
+
+.navbar {
+  width: 50%;
+  height: 80px;
+  background-color: $lightBlue;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.navbar a {
+  color: $darkBlue;
+  text-decoration: none;
+  font-family: $headerFont;
+  margin: 10px;
+}

@@ -1,0 +1,15 @@
+.navbar {
+  width: 50%;
+  height: 80px;
+  background-color: #c5fdfe;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.navbar a {
+  color: #1e6485;
+  text-decoration: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 10px;
+}/*# sourceMappingURL=Header.module.css.map */

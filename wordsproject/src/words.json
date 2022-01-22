@@ -1,0 +1,114 @@
+[
+  {
+    "id": "11217",
+    "english": "word",
+    "transcription": "[wɜːrd]",
+    "russian": "слово",
+    "tags": "Array",
+    "tags_json": "null"
+  },
+  {
+    "id": "11218",
+    "english": "mother",
+    "transcription": "[ ˈmʌð.ə r]",
+    "russian": "мама",
+    "tags": "семья",
+    "tags_json": "null"
+  },
+  {
+    "id": "11219",
+    "english": "cat",
+    "transcription": "[kæt]",
+    "russian": "кот",
+    "tags": "животные",
+    "tags_json": "null"
+  },
+  {
+    "id": "11220",
+    "english": "father",
+    "transcription": "[ ˈfɑː.ðə r]",
+    "russian": "отец",
+    "tags": "семья",
+    "tags_json": ""
+  },
+  {
+    "id": "11221",
+    "english": "animal",
+    "transcription": "[ ˈæn.ɪ.məl ]",
+    "russian": "животное",
+    "tags": "животные",
+    "tags_json": ""
+  },
+  {
+    "id": "11223",
+    "english": "brother",
+    "transcription": "[ ˈbrʌð.ə r]",
+    "russian": "брат",
+    "tags": "семья",
+    "tags_json": ""
+  },
+  {
+    "id": "11224",
+    "english": "sister",
+    "transcription": "[ ˈsɪs.tə r]",
+    "russian": "сестра",
+    "tags": "семья",
+    "tags_json": ""
+  },
+  {
+    "id": "11225",
+    "english": "dog",
+    "transcription": "[ dɒɡ ]",
+    "russian": "собака",
+    "tags": "животные",
+    "tags_json": ""
+  },
+  {
+    "id": "11226",
+    "english": "apple",
+    "transcription": "[ ˈæp. ə l ]",
+    "russian": "яблоко",
+    "tags": "еда",
+    "tags_json": ""
+  },
+  {
+    "id": "11227",
+    "english": "family",
+    "transcription": "[ ˈfæm. ə l.i ]",
+    "russian": "семья",
+    "tags": "семья",
+    "tags_json": ""
+  },
+  {
+    "id": "11228",
+    "english": "bird",
+    "transcription": "[bird]",
+    "russian": "птица",
+    "tags": "животные",
+    "tags_json": ""
+  },
+  {
+    "id": "11229",
+    "english": "egg",
+    "transcription": "[ eɡ ]",
+    "russian": "яйцо",
+    "tags": "еда",
+    "tags_json": ""
+  },
+  {
+    "id": "11230",
+    "english": "water",
+    "transcription": "[ ˈwɔː.tə r]",
+    "russian": "вода",
+    "tags": "еда",
+    "tags_json": ""
+  },
+  {
+    "id": "11231",
+    "english": "salt",
+    "transcription": "[ sɒlt ]",
+    "russian": "соль / соленый",
+    "tags": "еда",
+    "tags_json": ""
+  }
+]
